@@ -3,7 +3,7 @@ import src.clases.*;
 /**
  * Juego Siete y Media
  * 
- * @author Francisco Javier Cabello Rueda & Miguel Ángel Plaza
+ * @author Francisco Javier Cabello Rueda
  */
  public class SieteYMedia {
 
